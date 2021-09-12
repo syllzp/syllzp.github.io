@@ -1,0 +1,6 @@
+site_name: Cliff's homepage
+nav:
+- Research: Research.md
+- Publication: Publication.md
+- Contacts: Contacts.md
+theme: mkdocs
